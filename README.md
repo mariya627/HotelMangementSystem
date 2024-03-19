@@ -1,1 +1,2 @@
-# HotelMangementSystem
+# HotelMangementSystem :C# Application with SQL Database Integration
+"Efficiently manage hotel operations with this comprehensive C# application. Utilizing SQL database connectivity, this system offers seamless storage and retrieval of guest information, reservations, billing details, and more. Simplify administrative tasks and enhance guest experiences with our intuitive interface and robust database backend."
